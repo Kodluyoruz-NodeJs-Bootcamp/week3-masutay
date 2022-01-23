@@ -21,7 +21,7 @@
 }
 ```
 
-2. Add secret key and port info  to env information in to .env file as you see below
+2. Create .env file Add secret key and port info  to env information into .env file as you see below
 
 ```env
 
